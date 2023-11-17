@@ -48,7 +48,11 @@ __Jagd__
 __Verhalten__
 * Wandert gerne zu einem
 
-<hr>
+#### Banshee Schrei
+[![Banshee Schrei YouTube Video](http://img.youtube.com/vi/XsFBScHwbIY/0.jpg)](https://www.youtube.com/watch?v=XsFBScHwbIY)
+
+
+---
 
 ## Deogen
 
@@ -59,7 +63,11 @@ __Jagd__
 
 __Verhalten__
 
-<hr>
+#### Deogen Jagd
+[![Deogen Jagd YouTube Video](http://img.youtube.com/vi/8Lzo62WsIgg/0.jpg)](https://www.youtube.com/watch?v=8Lzo62WsIgg)
+
+
+---
 
 ## Dschinn
 
@@ -68,7 +76,7 @@ __Jagd__
 
 __Verhalten__
 
-<hr>
+---
 
 ## Dämon
 
@@ -77,9 +85,13 @@ __Jagd__
 __Verhalten__
 * Kruzifixe haben eine größere Reichweite
 * Braucht nur 20 Sekunden zwischen Jagd (normal 25 Sekunden)
-* Wenn du es Ausräuchters kann es schon nach 60 Sekunden wieder Jagen statt den üblichen 90 Sekunden
+* Wenn du es Ausräucherst kann es schon nach 60 Sekunden wieder Jagen statt den üblichen 90 Sekunden
+* Kann bei jeder Sanity jagen
 
-<hr>
+[![Dämon YouTube Video](http://img.youtube.com/vi/ZLcitKKqaOA/0.jpg)](https://www.youtube.com/watch?v=ZLcitKKqaOA)
+
+
+---
 
 ## Gespenst
 
@@ -91,7 +103,10 @@ __Jagd__
 __Verhalten__
 * Kann nicht in Salz treten
 
-<hr>
+[![Goryo YouTube Video](http://img.youtube.com/vi/sWEIOrytO7U/0.jpg)](https://www.youtube.com/watch?v=sWEIOrytO7U)
+
+
+---
 
 ## Goryo
 
@@ -102,7 +117,9 @@ __Verhalten__
 * Ändert nie seinen Raum
 * Läuft kaum von seinem Raum weg
 
-<hr>
+[![Goryo YouTube Video](http://img.youtube.com/vi/19-VMEb2PJg/0.jpg)](https://www.youtube.com/watch?v=19-VMEb2PJg)
+
+---
 
 ## Hantu
 
@@ -112,7 +129,7 @@ __Jagd__
 
 __Verhalten__
 
-<hr>
+---
 
 ## Mare
 
@@ -126,7 +143,10 @@ __Notiz__
 * Wandert öfters in Räume ohne Licht (kann damit auch Raum wechseln, wenn dieser dunkel ist)
 * Wird wahrscheinlicher das Licht kaputt machen
 
-<hr>
+[![Yurei YouTube Video](http://img.youtube.com/vi/1lBDSgHLe90/0.jpg)](https://www.youtube.com/watch?v=1lBDSgHLe90)
+
+
+---
 
 ## Moroi
 
@@ -139,7 +159,7 @@ __Verhalten__
 __Notiz__
 * Killt gerne mal alle
 
-<hr>
+---
 
 ## Mimik
 
@@ -149,7 +169,7 @@ __Verhalten__
 * Hat immer ein Geisterorb
 * Tut andere Geister nachmachen
 
-<hr>
+---
 
 ## Myling
 
@@ -159,7 +179,7 @@ __Jagd__
 
 __Verhalten__
 
-<hr>
+---
 
 ## Obake
 
@@ -171,16 +191,24 @@ __Jagd__
 __Verhalten__
 * Kann Fingerabdrücke mit 6 Fingern hinterlassen
 
-<hr>
+---
 
 ## Onryo
 
 __Jagd__
-* (Blinkt weniger?)
+* Normale Geschwindigkeit
 
 __Verhalten__
+* Kann ab 60% sanity jagen
+* Bläst Kerzen aus anstatt zu jagen (innerhalb 4 Meter (Tier II Kruzifix))
+* Gilt auch für Feuerzeug
+* Nach jedem dritten ausblasen versucht es innerhalb 6 Sekunden zu jagen
 
-<hr>
+
+[![Yurei YouTube Video](http://img.youtube.com/vi/R8KGvk-ErJg/0.jpg)](https://www.youtube.com/watch?v=R8KGvk-ErJg)
+
+
+---
 
 ## Oni
 
@@ -191,7 +219,7 @@ __Jagd__
 __Verhalten__
 * Kann einen nicht "anhauchen"
 
-<hr>
+---
 
 ## Poltergeist
 
@@ -202,7 +230,7 @@ __Jagd__
 __Verhalten__
 
 
-<hr>
+---
 
 ## Phantom
 
@@ -213,7 +241,7 @@ __Jagd__
 __Verhalten__
 * Machste Foto verschwindet er. Das Bild wird nicht verzerrt sein und der Geist wird nicht auf dem Foto zu sehen sein. Foto wird dann aber trotzdem makieren, dass es ein Geisterfoto ist. Muss derjenige kontrollieren, der das Foto gemacht hat.
 
-<hr>
+---
 
 ## Revenant
 
@@ -224,7 +252,7 @@ __Jagd__
 
 __Verhalten__
 
-<hr>
+---
 
 ## Raiju
 
@@ -234,7 +262,7 @@ __Jagd__
 
 __Verhalten__
 
-<hr>
+---
 
 ## Shade
 
@@ -247,7 +275,7 @@ __Verhalten__
 * Wird versuchen den Raum zu wechseln
 * Wird kaum Interaktionen/Events machen, wenn Spieler in der Nähe sind
 
-<hr>
+---
 
 ## Spirit
 
@@ -256,7 +284,7 @@ __Jagd__
 __Verhalten__
 * Beim Ausräuchern kann es erst nach 180 Sekunden wieder Jagen statt nach 90
 
-<hr>
+---
 
 ## Thaye
 
@@ -268,26 +296,32 @@ __Jagd__
 
 __Verhalten__
 
-<hr>
+---
 
 ## Yokai
 
 __Jagd__
 * Normale Geschwindigkeit
 * Wird schneller, wenn es Spieler sieht
+
 __Verhalten__
 
 
-<hr>
+---
 
-## Yurei
-
+## Yurei  
 __Jagd__
-* Normale Geschwindigkeit
+* Normale Geschwindigkeit 
+
 __Verhalten__
+* Schmeißt Türen zu
+* Kann die Haustür zu schmeißen als Event
+* Beim Ausräuchern wird es in dessen Raum bleiben, aber Aktivitäten steigen für 60 Sekunden (Ausser für Geisterevent!)
+
+[![Yurei YouTube Video](http://img.youtube.com/vi/5jtTdobrTus/0.jpg)](https://www.youtube.com/watch?v=5jtTdobrTus)
 
 
-<hr>
+---
 
 ## Zwillinge
 
