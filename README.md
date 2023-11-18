@@ -1,6 +1,22 @@
 # phasmo-guide 👻
 Notizen für Geister, um diese einfacher identifizieren zu können
-##### Table of Contents
+
+---
+## Normaler Geist
+__Jagd__
+* Hört Stimmen ab 9 Meter
+* Erkennt elektrische Geräte ab 7.5 Meter
+* Lichter flackern ab 10 Meter
+* Footsteps hört man in 20 Meter radius
+
+__Verhalten__
+
+
+## Normaler Spieler
+* Kann 3 Sekunden lang 3m/s sprinten (Sprint insgesamt dann 9 Meter)
+* Läuft normal 1.6m/s
+---
+
 ### B  
 [Banshee](#Banshee)  
 ### D
@@ -81,6 +97,8 @@ __Verhalten__
 ## Dämon
 
 __Jagd__
+* 1.7m/s mit max 2.805m/s
+* (Lichtschalter können nicht bewegt werden)
 
 __Verhalten__
 * Kruzifixe haben eine größere Reichweite
@@ -88,7 +106,7 @@ __Verhalten__
 * Wenn du es Ausräucherst kann es schon nach 60 Sekunden wieder Jagen statt den üblichen 90 Sekunden
 * Kann bei jeder Sanity jagen
 
-[![Dämon YouTube Video](http://img.youtube.com/vi/ZLcitKKqaOA/0.jpg)](https://www.youtube.com/watch?v=ZLcitKKqaOA)
+[![Dämon YouTube Video](http://img.youtube.com/vi/UErl6rpUU24/0.jpg)](https://www.youtube.com/watch?v=UErl6rpUU24)
 
 
 ---
@@ -176,6 +194,7 @@ __Verhalten__
 __Jagd__
 * Relativ leise, bis es in deine Nähe kommt
 * EMF schlägt aus/Taschenlampe flackert, aber keine Schritte sind zu hören auf Distanz
+* Footsteps sind erst in 12 Meter radius zu hören
 
 __Verhalten__
 
@@ -252,15 +271,23 @@ __Jagd__
 
 __Verhalten__
 
+#### Revenant Jagd
+[![Revenant Jagd YouTube Video](http://img.youtube.com/vi/ce4Owhj1UzM/0.jpg)](https://www.youtube.com/watch?v=ce4Owhj1UzM)
+
+
 ---
 
 ## Raiju
 
 __Jagd__
-* Normale Geschwindigkeit
-* Wird in der Nähe von elektronischer Ausrüstung sehr schnell
-
+* 1.7m/s normal und 2.5m/s bei elektrischen Geräten
+* mit max 2.805m/s und immer 2.5m/s bei elektrischen Geräten
+* Wird in der Nähe von elektronischer Ausrüstung sehr schnell (Radius hängt von Karrtengröße ab von 6 bis 9 Meter)
+* Lichter flickern in 15 Meter radius anstatt 10
 __Verhalten__
+
+[![Raiju YouTube Video](http://img.youtube.com/vi/rX1-vaWPnHg/0.jpg)](https://www.youtube.com/watch?v=rX1-vaWPnHg)
+
 
 ---
 
@@ -292,9 +319,14 @@ __Jagd__
 * Schnelle Geschwindigkeit
 * Ändert seine Geschwindigkeit __nicht__, wenn es einen Spieler sieht
 * Je älter es ist, desto langsamer wird es
+* Je älter es ist, desto seltener jagd es
 * Wird sein Model zu einem älteren Model wechseln
 
 __Verhalten__
+
+##### Thaye jagd
+[![Thaye YouTube Video](http://img.youtube.com/vi/RGJihWLwVfk/0.jpg)](https://www.youtube.com/watch?v=RGJihWLwVfk)
+
 
 ---
 
@@ -303,6 +335,8 @@ __Verhalten__
 __Jagd__
 * Normale Geschwindigkeit
 * Wird schneller, wenn es Spieler sieht
+* Kann einen nur 2.5 Meter weit hören
+* Erkennt elektrische Geräte erst ab 2.5 Meter
 
 __Verhalten__
 
@@ -326,6 +360,11 @@ __Verhalten__
 ## Zwillinge
 
 __Jagd__
-* Ein Geist ist etwas schneller, der andere etwas langsamer
+* Ein Geist ist etwas schneller (1.7m/s), der andere etwas langsamer (1.5m/s)
+* Beschleunigt, wenn es Spieler sieht
+
 __Verhalten__
-* Der andere Geist wird versuchen den anderen nachzuahmen 
+* Ist eigentlich nur ein Geist, hat aber zwei Interaktion/Jagdradien. Einer davon ist 16 Meter groß
+* Es gibt nur einen physikalischen Geist!
+
+* [![Zwillinge YouTube Video](http://img.youtube.com/vi/o3RQnuz_FJY/0.jpg)](https://www.youtube.com/watch?v=o3RQnuz_FJY)
