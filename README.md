@@ -9,6 +9,7 @@ __Jagd__
 * Lichter flackern ab 10 Meter
 * Footsteps hört man in 20 Meter radius
 * Jagd ab 50% sanity
+* 50% Chance ein Item jede 0.5 Sekunden zu werfen
 
 __Verhalten__
 * UV bleibt 60 oder 30 Sekunden
@@ -193,11 +194,16 @@ __Verhalten__
 ## Myling
 
 __Jagd__
+* Normale Geschwindigkeit (1.7m/s mit 2.805m/s max)
 * Relativ leise, bis es in deine Nähe kommt
-* EMF schlägt aus/Taschenlampe flackert, aber keine Schritte sind zu hören auf Distanz
+* EMF schlägt aus/Taschenlampe flackert, aber keine Schritte sind zu hören auf Distanz. Gleiche gilt für Objekte, die herumgeworfen werden
 * Footsteps sind erst in 12 Meter radius zu hören
+* Macht mehr Geräusche im Parobolmikrofon
 
 __Verhalten__
+
+[![Myling YouTube Video](http://img.youtube.com/vi/R2-PM3_iE8A/0.jpg)](https://www.youtube.com/watch?v=R2-PM3_iE8A)
+
 
 ---
 
