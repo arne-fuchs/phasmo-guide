@@ -10,6 +10,7 @@ __Jagd__
 * Footsteps hört man in 20 Meter radius
 * Jagd ab 50% sanity
 * 50% Chance ein Item jede 0.5 Sekunden zu werfen
+* Blink-pausen sind 0.3 - 1 Sekunde
 
 __Verhalten__
 * UV bleibt 60 oder 30 Sekunden
@@ -228,16 +229,17 @@ __Verhalten__
 ## Onryo
 
 __Jagd__
-* Normale Geschwindigkeit
+* Normale Geschwindigkeit (1.7m/s mit 2.805m/s max)
 
 __Verhalten__
 * Kann ab 60% sanity jagen
 * Bläst Kerzen aus anstatt zu jagen (innerhalb 4 Meter (Tier II Kruzifix))
 * Gilt auch für Feuerzeug
 * Nach jedem dritten ausblasen versucht es innerhalb 6 Sekunden zu jagen
+* Bläst mehr Kerzen aus, wenn bereits Spieler gestorben sind
 
 
-[![Yurei YouTube Video](http://img.youtube.com/vi/R8KGvk-ErJg/0.jpg)](https://www.youtube.com/watch?v=R8KGvk-ErJg)
+[![Onryo YouTube Video](http://img.youtube.com/vi/xF2-mf3oEUs/0.jpg)](https://www.youtube.com/watch?v=xF2-mf3oEUs)
 
 
 ---
@@ -249,29 +251,42 @@ __Jagd__
 * Ist länger sichtbar zwischen dem Blinken
 
 __Verhalten__
-* Kann einen nicht "anhauchen"
+* Kann einen nicht "anhauchen"; hat weniger Events
+* Ist mehr aktiv, wenn Leute in der Nähe sind
+* Man sieht öfters ein "volles Model" (Kein Schatten)
+
+[![Oni YouTube Video](http://img.youtube.com/vi/HDBm_vlA1f8/0.jpg)](https://www.youtube.com/watch?v=HDBm_vlA1f8)
+
 
 ---
 
 ## Poltergeist
 
 __Jagd__
-* Normale Geschwindigkeit
+* Normale Geschwindigkeit (1.7m/s mit 2.805m/s max)
 * Wirft Sachen oft, wirft Sachen hart, wird dein Leben wegwerfen
+* 100% Chance ein Item jede 0.5 Sekunden zu werfen
 
 __Verhalten__
+* Entfernt man alle werfbare Sachen im Raum, so wird es schwach
+* Kann mehrere Sachen gleichzeitig werfen
 
+[![Poltergeist YouTube Video](http://img.youtube.com/vi/ZXFP5LLhD9A/0.jpg)](https://www.youtube.com/watch?v=ZXFP5LLhD9A)
 
 ---
 
 ## Phantom
 
 __Jagd__
-* Normale Geschwindigkeit
-* Kürzeres Erscheinen zwischen Blinken
+* Normale Geschwindigkeit (1.7m/s mit 2.805m/s max)
+* Kürzeres Erscheinen zwischen Blinken (Erscheint nur jede 1-2 Sekunden)
 
 __Verhalten__
-* Machste Foto verschwindet er. Das Bild wird nicht verzerrt sein und der Geist wird nicht auf dem Foto zu sehen sein. Foto wird dann aber trotzdem makieren, dass es ein Geisterfoto ist. Muss derjenige kontrollieren, der das Foto gemacht hat.
+* Machste Foto verschwindet es, Event geht aber weiter. Das Bild wird nicht verzerrt sein und der Geist wird nicht auf dem Foto zu sehen sein. Foto wird dann aber trotzdem markieren, dass es ein Geisterfoto ist. Muss derjenige kontrollieren, der das Foto gemacht hat.
+* Kann zu jedem Spieler irgendwo auf der Map laufen.
+
+[![Phantom YouTube Video](http://img.youtube.com/vi/GFLie5hzbjk/0.jpg)](https://www.youtube.com/watch?v=GFLie5hzbjk)
+
 
 ---
 
