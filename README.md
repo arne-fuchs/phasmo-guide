@@ -8,9 +8,10 @@ __Jagd__
 * Erkennt elektrische Geräte ab 7.5 Meter
 * Lichter flackern ab 10 Meter
 * Footsteps hört man in 20 Meter radius
+* Jagd ab 50% sanity
 
 __Verhalten__
-
+* UV bleibt 60 oder 30 Sekunden
 
 ## Normaler Spieler
 * Kann 3 Sekunden lang 3m/s sprinten (Sprint insgesamt dann 9 Meter)
@@ -203,12 +204,18 @@ __Verhalten__
 ## Obake
 
 __Jagd__
-* Normale Geschwindigkeit
-* Ändert ab und zu sein Model (mindestens einmal pro Jagd)
+* Normale Geschwindigkeit (1.7m/s mit 2.805m/s max)
+* Ändert ab und zu sein Model (mindestens einmal pro Jagd mit 6.666% chance)
 * Manchmal fehlt ein Schritt (Audio)
 
 __Verhalten__
-* Kann Fingerabdrücke mit 6 Fingern hinterlassen
+* Kann Fingerabdrücke mit 6 Fingern hinterlassen (16.66%)
+* Bei Tastatur 5 Finger (normal 4)
+* Bei Gefängnistüren 5 (normal 4)
+* Kann UV schneller verschwinden lassen
+
+[![Revenant YouTube Video](http://img.youtube.com/vi/Gl6nWRgXVlQ/0.jpg)](https://www.youtube.com/watch?v=Gl6nWRgXVlQ)
+
 
 ---
 
@@ -265,14 +272,13 @@ __Verhalten__
 ## Revenant
 
 __Jagd__
-* Sehr langsam
-* Wird sehr schnell, wenn es die Position eines Spielers weiß
+* Sehr langsam (1m/s)
+* Wird sehr schnell, wenn es die Position eines Spielers weiß (3m/s)
 * Räuchert man ihn während der Jagd wird er langsam, da er einen verliert
 
 __Verhalten__
 
-#### Revenant Jagd
-[![Revenant Jagd YouTube Video](http://img.youtube.com/vi/ce4Owhj1UzM/0.jpg)](https://www.youtube.com/watch?v=ce4Owhj1UzM)
+[![Revenant YouTube Video](http://img.youtube.com/vi/5P-4CPhM-Ak/0.jpg)](https://www.youtube.com/watch?v=5P-4CPhM-Ak)
 
 
 ---
