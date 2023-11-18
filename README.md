@@ -47,7 +47,7 @@ __Verhalten__
 [Raiju](#Raiju)  
 ### S
 [Shade](#Shade)  
-[Spirit](#Spirito)  
+[Spirit](#Spirit)  
 ### T
 [Thaye](#Thaye)
 ### Y
