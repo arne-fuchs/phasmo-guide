@@ -42,6 +42,7 @@ __Verhalten__
 [Oni](#Oni)
 ### P
 [Poltergeist](#Poltergeist)  
+[Phantom](#Phantom)
 ### R
 [Revenant](#Revenant)  
 [Raiju](#Raiju)  
