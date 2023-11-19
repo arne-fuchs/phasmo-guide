@@ -388,7 +388,7 @@ __Verhalten__
 ## Zwillinge
 
 __Jagd__
-* Ein Geist ist etwas schneller (1.7m/s), der andere etwas langsamer (1.5m/s)
+* Ein Geist ist etwas schneller (1.8m/s), der andere etwas langsamer (1.5m/s)
 * Beschleunigt, wenn es Spieler sieht
 
 __Verhalten__
